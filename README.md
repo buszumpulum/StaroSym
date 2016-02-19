@@ -1,2 +1,2 @@
 # StaroSym
-Some-kind-of-strategy game inspired by old Java project. Rewritten in C++, based on SDL.
+Some-kind-of-strategy game based on old Java project.
